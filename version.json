@@ -3,8 +3,8 @@
   "min_compatible": "1.0.0",
   "ods_url": "https://raw.githubusercontent.com/logistiriosend/hl-tameio/master/tameio_master_1.2.1.ods",
   "notes": "version check από github",
-  "notes": "Προσθήκη φύλλου Ρυθμίσεις, Σωστή διεύθυνση gist στο Ρυθμίσεις-B7",
-  "notes": "python macro παίρνει δεδομένα από Ρυθμίσεις",
-  "notes": "επαναφορά σπασμένης μορφοποίησης στο ταμείο νέας ημέρας",
-  "notes": "αφαίρεση κωδικου/email από τον κώδικα python"
+   "Προσθήκη φύλλου Ρυθμίσεις, Σωστή διεύθυνση gist στο Ρυθμίσεις-B7",
+   "python macro παίρνει δεδομένα από Ρυθμίσεις",
+   "επαναφορά σπασμένης μορφοποίησης στο ταμείο νέας ημέρας",
+   "αφαίρεση κωδικου/email από τον κώδικα python"
 }
